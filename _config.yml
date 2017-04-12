@@ -4,8 +4,8 @@
 baseurl:
 url:
 date_format: "ordinal"
-title: 程序猿
-subtitle: "JUST DO IT"
+title: no error,no warning!
+subtitle: "JUST DO IT."
 description: "有时候阳光很好，有时候阳光很暗，这就是生活。"
 keywords: handx, DeXing Han, 韩非子, 爱码士,handexing
 favicon: /favicon1.ico
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Dexing Han
 organization: XXXX公司
-organization_url: XXXX公司
+organization_url: https://github.com/handexing
 github_username: handexing
 location: Shanghai, China
 email: 908716835@qq.com
