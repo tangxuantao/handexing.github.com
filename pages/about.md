@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+title: 关于
+description: 有时候阳光很好，有时候阳光很暗，这就是生活。
+keywords: handx, handexing
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+长风破浪会有时，直挂云帆济沧海。
 
 ## 联系
 
