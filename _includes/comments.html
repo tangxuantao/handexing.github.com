@@ -4,9 +4,9 @@
       {% if site.disqus_username %}
         {% assign load_disqus = true %}
         <!-- Disqus Protection, see https://github.com/mzlogin/mzlogin.github.io/issues/2 -->
-        {% if site.disqus_username == 'mzlogin' %}
+        {% if site.disqus_username == 'handx' %}
           {% assign load_disqus = false %}
-          {% if site.url contains 'mazhuang.org' %}
+          {% if site.url contains 'https://github.com/handexing' %}
             {% assign load_disqus = true %}
           {% endif %}
         {% endif %}
@@ -80,7 +80,7 @@
           target: "cloud-tie-wrapper"
       };
       var yunManualLoad = true;
-      Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);
+      Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vZXh0ZW5kL2xpc3Rfam9pbl9zY3JpcHQuaHRtbA", true);
       </script>
     {% endif %}
   {% endcase %}
