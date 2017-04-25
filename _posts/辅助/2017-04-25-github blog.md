@@ -29,6 +29,7 @@ keywords: github，搭建，博客
 以上是git工具，自行安装下载，我用的[mingw](http://mingw.org/)，安装完毕之后把刚刚新建的github项目clone下来。
 
      git clone https://github.com/handexing/handexing.github.com.git
+     
 之后在本地会看到已经clone下来的项目。
 
 ### 设置主题
