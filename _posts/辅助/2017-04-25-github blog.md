@@ -19,14 +19,17 @@ keywords: github，搭建，博客
 ![新建项目](/images/posts/creategithub.png)
 **项目名称必须是[用户名+github.com]或[用户名+github.io]**
 之后可以设置该项目的属性，在项目的右侧的Settings，可以设置允许有wiki等，注意GitHub Pages不要选择**automatic page generator**!。
+
 2. git下载
 项目建立完毕，下载git工具，
-2.1 [mingw](http://mingw.org/)
-2.2 [git](https://www.git-scm.com/download/win)
-2.3 [github](https://desktop.github.com/)
+- [mingw](http://mingw.org/)
+- [git](https://www.git-scm.com/download/win)
+- [github](https://desktop.github.com/)
+
 以上是git工具，自行安装下载，我用的[mingw](http://mingw.org/)，安装完毕之后把刚刚新建的github项目clone下来。
      git clone https://github.com/handexing/handexing.github.com.git
 之后在本地会看到已经clone下来的项目。
+
 3. 设置主题
 可以去jekyll下载主题，jekyll自己收集了一下[主题](https://github.com/jekyll/jekyll/wiki/Sites)。可以点开看看效果，喜欢的可以点击旁边的source链接到github里面下载代码。当然你也可以直接把我的主题下载下来直接用，我的[主题](https://github.com/handexing/handexing.github.com.git).系在到本地可以看到有好多文件夹。首先先把.git文件以外的文件拷贝到自己的项目下。
 如果想关注我的项目可以在[我的博客](https://github.com/handexing/handexing.github.com.git)右上角，点击atch Star Fork。
