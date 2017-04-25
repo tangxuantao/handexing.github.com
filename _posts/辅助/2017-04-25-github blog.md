@@ -27,6 +27,7 @@ keywords: github，搭建，博客
 - [github](https://desktop.github.com/)
 
 以上是git工具，自行安装下载，我用的[mingw](http://mingw.org/)，安装完毕之后把刚刚新建的github项目clone下来。
+
      git clone https://github.com/handexing/handexing.github.com.git
 之后在本地会看到已经clone下来的项目。
 
@@ -52,6 +53,7 @@ keywords: github，搭建，博客
 
 ### 提交
 如果都修改好了，就可以提交代码了，需要使用一下几个命令：
+
      git add --all #添加所有文件
      git commit -m"init project" #提交写的备注
      git clone push #上传文件
