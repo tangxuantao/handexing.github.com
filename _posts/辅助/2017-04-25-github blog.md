@@ -16,7 +16,7 @@ keywords: github，搭建，博客
 
 1. 新建项目
 首先需要注册一个github账号。注册成功之后新建一个项目，如下图：
-![新建项目](/images/posts/creategithub.jpg)
+![新建项目](/images/posts/creategithub.png)
 **项目名称必须是[用户名+github.com]或[用户名+github.io]**
 之后可以设置该项目的属性，在项目的右侧的Settings，可以设置允许有wiki等，注意GitHub Pages不要选择**automatic page generator**!。
 2. git下载
@@ -44,7 +44,7 @@ keywords: github，搭建，博客
 
 4. 设置博客
 站点的配置信息在_config.yml中，打开如下图：
-![配置博客](/images/posts/config.jpg)
+![配置博客](/images/posts/config.png)
 把站点信息改成自己的就行了，**这个里面有用到第三方评论插件，要自己申请账号，不能用我的账号**！
 
 5. 提交
@@ -56,7 +56,7 @@ keywords: github，搭建，博客
 6. 验证博客
 代码提交完就可以看看自己的博客了【https://你的用户名.github.io】，不出以外成功了，如果你没有成功，对着以上步骤在看看是不是遗漏了步骤。
 我的：
-![验证博客](/images/posts/blog.jpg)
+![验证博客](/images/posts/blog.png)
 
 ## 结语
 如果你跟着这篇不那么详尽的教程，成功搭建了自己的博客，恭喜你！剩下的就是保持热情的去写自己的文章吧。
