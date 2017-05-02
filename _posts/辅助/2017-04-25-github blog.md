@@ -34,7 +34,8 @@ keywords: github，搭建，博客
 
 ### 设置主题
 可以去jekyll下载主题，jekyll自己收集了一下[主题](https://github.com/jekyll/jekyll/wiki/Sites)。可以点开看看效果，喜欢的可以点击旁边的source链接到github里面下载代码。当然你也可以直接把我的主题下载下来直接用，我的[主题](https://github.com/handexing/handexing.github.com.git).系在到本地可以看到有好多文件夹。首先先把.git文件以外的文件拷贝到自己的项目下。
-如果想关注我的项目可以在[我的博客](https://github.com/handexing/handexing.github.com.git)右上角，点击atch Star Fork。
+
+如果想关注我的项目可以在[我的博客](https://github.com/handexing/handexing.github.com.git)右上角，点击**atch Star Fork**。
 
 博客文件夹介绍：
 
@@ -50,6 +51,7 @@ keywords: github，搭建，博客
 ### 设置博客
 站点的配置信息在_config.yml中，打开如下图：
 ![配置博客](/images/posts/config.png)
+
 把站点信息改成自己的就行了，**这个里面有用到第三方评论插件，要自己申请账号，不能用我的账号**！
 
 ### 提交
