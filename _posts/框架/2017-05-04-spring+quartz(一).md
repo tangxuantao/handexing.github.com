@@ -8,7 +8,7 @@ keywords: spring,quartz，任务调度
 
 有时工作中可能会用到定时任务功能，所以提前来配置玩一下。quartz是比较常用的定时器工具，并且在spring框架中也已经做了很好的集成,接下来开始配置使用quartz来做任务定时器功能。
 
-##说明
+## 说明
 > 还是在WISH项目基础中进行配置，想重头开始配置请移驾[WISH](https://github.com/handexing/wish),里面有详细的配置。
 
 ## pom.xml
