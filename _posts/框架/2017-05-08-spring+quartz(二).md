@@ -8,7 +8,7 @@ keywords: spring,quartz，任务调度，动态调动
 
 前面已经对spring、quartz进行了整合，如果业务需求简单可以满足，但是很多时候常会遇到需要动态的添加修改任务，而spring提供的的只能通过配置文件才能控制任务，这样失去了灵活性。接我们就开始撸码。
 
-##说明
+## 说明
 > 还是在WISH项目基础中进行配置，想重头开始配置请移驾[WISH](https://github.com/handexing/wish),里面有详细的配置。
 也有单独抽离出来的单独项目[quartz_demo](https://github.com/handexing/frameworkAggregate)
 
