@@ -1,6 +1,6 @@
-# handexing.github.com [MonkeyHan blog](https://handexing.github.io/)
+# handexing.github.com [Pinky Lam](https://handexing.github.io/)
 
-> ���ò��������ѿ��Ե���star,watch,forkҲ���Ƕ��ҵĹ����ˡ�
+> 觉得不错的朋友可以点下star,watch,fork也算是对我的鼓励了。
 
 
 
