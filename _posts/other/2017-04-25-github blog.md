@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用github搭建个人博客
-categories: 辅助
+categories: other
 description: 使用github搭建个人博客
 keywords: github，搭建，博客
 ---
